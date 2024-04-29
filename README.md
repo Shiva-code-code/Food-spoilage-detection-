@@ -1,7 +1,7 @@
 ## 📋 <a name="table">Food Spoilage Detection using Arduino</a>
 This project utilizes Arduino to detect food spoilage by monitoring sensor data and providing real-time feedback. It aims to help users determine the freshness of food items, thereby reducing the risk of consuming spoiled food.
 
-Table of Contents
+## <a name ="contents">Table of Contents</a>
 Overview
 Features
 Hardware Requirements
@@ -10,7 +10,9 @@ Installation
 Usage
 Contributing
 License
-Overview
+
+
+## <a name="over"> Overview</a>
 Food spoilage detection is a crucial aspect of food safety and preservation. This Arduino-based solution offers a simple yet effective method to monitor the freshness of food items using analog sensors. By comparing sensor readings to a baseline value, the system can detect changes indicative of spoilage and provide timely alerts to users.
 
 Features
