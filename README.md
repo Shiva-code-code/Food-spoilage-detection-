@@ -3,6 +3,7 @@ This project utilizes Arduino to detect food spoilage by monitoring sensor data 
 
 ## <a name ="contents">Table of Contents</a>
 [Overview](#Overview)
+
 [Features](#Features)
 Hardware Requirements
 Software Requirements
