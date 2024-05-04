@@ -29,7 +29,7 @@ Visual and auditory feedback to indicate food status (fresh or spoiled)
 Easy to understand web interface for monitoring sensor data
 Integration with LCD display for local status indication
 
-Hardware Requirements
+## <a name = "Hardware-Requirements>Hardware Requirements</a>
 
 Arduino board (e.g., Arduino Uno)
 Analog sensor (e.g., MQ-4 gas sensor for detecting food spoilage)
@@ -40,18 +40,23 @@ Power source (e.g., USB cable, battery pack)
 Software Requirements
 Arduino IDE (Integrated Development Environment)
 Required libraries (e.g., LiquidCrystal for LCD, ESPAsyncWebServer for web interface)
-Installation
+
+## <a name = "Installation"> Installation </a>
+
 Clone or download the project repository from GitHub.
 Open the Arduino IDE and navigate to File > Open. Select the downloaded project folder.
 Connect the Arduino board to your computer using a USB cable.
 Upload the sketch to the Arduino board by clicking on the "Upload" button in the Arduino IDE.
-Usage
+
+## <a name = "Usage"> Usage </a>
 Connect the analog sensor to the Arduino board as per the circuit diagram provided.
 Power on the Arduino board.
 Access the web interface to monitor sensor data in real-time.
 Interpret sensor readings to determine the freshness of food items.
 Optionally, connect an LCD display and/or buzzer for local status indication.
-Contributing
+
+## <a name = "Contributing"> Contributing</a>
+
 Contributions to improve the project are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
 
 License
